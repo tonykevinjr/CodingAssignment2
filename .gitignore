@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# VS Code project settings
+.vscode/
+
+# System files
+Thumbs.db
